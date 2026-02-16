@@ -71,5 +71,3 @@ This project demonstrates skills in:
 
 📎 Author: Tshiamo  
 Aspiring IT & Data Professional
-📎 Author: Tshiamo  
-Aspiring IT & Data Professional
