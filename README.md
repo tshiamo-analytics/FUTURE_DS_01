@@ -56,8 +56,7 @@ The goal of this project was to transform raw CSV data into meaningful visual in
 
 ## 📷 Dashboard Preview
 
-### Executive Overview
-![Executive Overview](dashboard_page1.png)
+
 
 ### Product & Profit Analysis
 ![Product & Profit Analysis](dashboard_page2.png)
